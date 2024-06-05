@@ -7,10 +7,10 @@
   "DESTINATION_STATION": "NN",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "7083466988@slice",
+  "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "MANGESH T",
+      "NAME": "Mangesh T",
       "AGE": 24,
       "GENDER": "Male",
       "SEAT": "No Preference",
