@@ -6,7 +6,7 @@
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "NN",
   "TATKAL": true,
-  "PREMIUM_TATKAL": false,
+  "PREMIUM_TATKAL": true,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
   {
