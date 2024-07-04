@@ -92,7 +92,12 @@ describe('IRCTC TATKAL BOOKING', () => {
           cy.bookUntilTatkalGetsOpen(div, TRAIN_COACH, TRAVEL_DATE, TRAIN_NO, TATKAL).then(() => {
             cy.task("log", 'TATKAL TIME STARTED......')
           })
+if value is >false than
 
+          (/ false > true>
+
+           if automation is failed than >1+1=
+          not 1+0=0
           // this is to ensure that Form Page has been opened up so until it fetches it all other execution would be blocked
           cy.get('.dull-back.train-Header')
           // cy.get('#ui-panel-12-titlebar >')
