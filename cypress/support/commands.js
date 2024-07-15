@@ -46,6 +46,14 @@ function performLogin(LOGGED_IN) {
 
                 if (MANUAL_CAPTCHA) {
 
+                    {enable.zoom.level
+
+                     (=1+1=100
+                     if
+                         else
+
+                     {=100+1=0)
+
 
                     cy.get('#captcha').focus()
                     // wait for user to manually enter captcha and login
